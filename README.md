@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @shubhp2610
-- 👀 I’m interested in WEB DEV
-- 📫 How to reach me shubhpatel2610@outlook.com
-
+- 👀 I’m interested in building full-stack applications and exploring technologies related to microservices, CI/CD, and cloud infrastructure.
+- 🌱 I’m currently learning more about systems design and large-scale data processing.
+- 💞️ I’m looking to collaborate on projects that solve real-world problems and push the boundaries of web technology.
+- 📫 How to reach me: shubhpatel2610@outlook.com
+- 🔗 Let's connect on LinkedIn: [shubh-p4tel](https://www.linkedin.com/in/shubh-p4tel/)
